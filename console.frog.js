@@ -6,13 +6,6 @@
  *  Copyright (C) 2016 Tim Holman, http://tholman.com
  */
 
-(function dothething() {
-
-  if( !window.console ) {
-    // Well... nothing really... let it be!
-    return;
-  }
-
     if(window.console && console.log){
          var old = console.log;
          console.log = function(){
@@ -48,5 +41,3 @@
 
         };
      }
-
-})();
