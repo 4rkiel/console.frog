@@ -32,7 +32,7 @@
              var args = Array.prototype.slice.call(arguments);
              var stringOfArgs = args.toString().split(',').join(', ');
 
- 			// Add the bubble if there is something to log!
+ 	    // Add the bubble if there is something to log!
              if( stringOfArgs.length > 0 ) {
                frog[1] = frog[1] + "   ---" + ("-".repeat(stringOfArgs.length)) + "-";
                frog[2] = frog[2] + "-(   " + stringOfArgs + "   )";
@@ -44,7 +44,7 @@
                var line = frog[i] + "\n";
 
                old.call(this, line);
- 		    }
+ 	    }
 
         };
      }
