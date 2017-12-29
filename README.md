@@ -42,10 +42,10 @@ Wow. That feels good!
 
 ### Usage
 
-Clone that.
-Go to chrome://extensions
-Click to load unpack extension
-Enjoy console froging
+ - Clone that.
+ - Go to chrome://extensions
+ - Click to load unpack extension
+ - Enjoy console froging
 
 
 
