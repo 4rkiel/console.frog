@@ -1,4 +1,4 @@
-###console.frog
+# console.frog
 
 ![GitHub Logo](/icon.png)
 
@@ -38,13 +38,19 @@ console.log("Amazing!");
 
 Wow. That feels good!
 
-###Usage
+
+
+### Usage
+
 Clone that.
 Go to chrome://extensions
 Click to load unpack extension
 Enjoy console froging
 
-###License
+
+
+### License
+
 Copyright (c) 2016 Tim Holman - http://tholman.com
 
 The MIT License
